@@ -1,0 +1,6 @@
+statistic	value	note
+Pearson correlation	0.8927429896139434	Measures strength of linear relationship between dose and CPM.
+Spearman correlation	1.0	Measures whether CPM generally increases as dose increases.
+Linear regression slope	0.28036646331269777	Estimated change in CPM for each 1 uM increase in dose.
+Linear regression intercept	2.1239230941872593	Estimated CPM value when dose is 0 uM.
+R-squared	0.7969900455048414	Coefficient of determination; describes how much variation is explained by the linear trend.
