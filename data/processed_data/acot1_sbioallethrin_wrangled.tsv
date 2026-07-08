@@ -1,0 +1,7 @@
+sample_column	raw_count	chemical	dose_uM	total_expression_count	normalized_expression	CPM
+Corton-2-Rat-Primary_E09	0	S-Bioallethrin	0.4	11249014	0.0	0.0
+Corton-2-Rat-Primary_E08	1	S-Bioallethrin	1.2	4521933	2.211443645892144e-07	0.22114436458921438
+Corton-2-Rat-Primary_E07	4	S-Bioallethrin	3.7	7590770	5.269557633810536e-07	0.5269557633810535
+Corton-2-Rat-Primary_E06	35	S-Bioallethrin	11.1	7253099	4.825523545177034e-06	4.825523545177034
+Corton-2-Rat-Primary_E05	97	S-Bioallethrin	33.3	4317545	2.246647110800235e-05	22.46647110800235
+Corton-2-Rat-Primary_E04	125	S-Bioallethrin	100.0	4686158	2.667430334188476e-05	26.67430334188476
