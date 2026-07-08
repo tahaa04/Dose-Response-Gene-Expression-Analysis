@@ -1,4 +1,3 @@
-
 Dose-Response Trend Analysis Summary
 
 Gene of interest: Acot1
@@ -6,8 +5,7 @@ Chemical of interest: S-bioallethrin
 Expression measure: CPM (Counts Per Million)
 
 Statistics calculated:
-
-Pearson correlation:
+Pearson correlation: 
 Measures the strength of a linear relationship between chemical dose and gene expression.
 
 Spearman correlation:
@@ -17,7 +15,6 @@ R-squared:
 Coefficient of determination. It describes how much variation in gene expression is explained by the linear trend line.
 
 Results:
-
 Pearson correlation: 0.893
 Spearman correlation: 1.000
 Linear regression slope: 0.280
@@ -25,9 +22,7 @@ Linear regression intercept: 2.124
 R-squared: 0.797
 
 Observed trend:
-
 Normalized Acot1 expression generally increases as S-bioallethrin dose increases.
-
-The Spearman correlation is useful here because it checks whether the overall trend is increasing across dose levels. The regression line is used only as a descriptive trend line, not as a predictive machine learning model.
-
+The Spearman correlation is useful here because it checks whether the overall trend is increasing across dose levels. 
+The regression line is used only as a descriptive trend line, not as a predictive machine learning model.
 The observed pattern suggests a positive dose-response trend between S-bioallethrin concentration and Acot1 expression.
